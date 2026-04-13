@@ -46,7 +46,7 @@ if st.sidebar.button("Predict"):
 # --------------------------
 st.subheader("📊 Model Performance")
 
-df = pd.read_csv("cleaned_kdd.csv")
+df = pd.read_csv("cleaned_kdd_small.csv")
 
 X = df.iloc[:, :-1]
 y_true = df.iloc[:, -1]
