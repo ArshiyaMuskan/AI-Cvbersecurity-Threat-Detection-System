@@ -135,14 +135,7 @@ streamlit run main.py
 
 ---
 
-## 🌐 Deployment
 
-The app is deployed using **Streamlit Cloud**.
-
-👉 Live Demo:
-
-```
-https://your-streamlit-app-link.streamlit.app
 ```
 
 ---
